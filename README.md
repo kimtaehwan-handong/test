@@ -1,7 +1,10 @@
-#name
+name
+===========
 >kimtaehwan
-#student id
+student id
+===========
 >21300210
-#email
+email
+===========
 > <kimtaehwan12@naver.com>
 @kimtaehwan-handong
